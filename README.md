@@ -1,6 +1,6 @@
-### Frequently used
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionmarshalll)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionmarshalll&layout=compact&theme=dracula&hide=html)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionmarshalll&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dionmarshalll/dionmarshalll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
