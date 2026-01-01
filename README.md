@@ -1,40 +1,44 @@
 <div align="center">
 
 # Hi there! I'm Dion 👋
-### 🚀 Enthusiast Developer & Learner
+### 📊 Aspiring Data Analyst & AI Engineer
+**Information Systems Student at Universitas Brawijaya (Class of 2026)**
 
-[![](https://visitcount.itsvg.in/api?id=dionmarshalll&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deonmarshal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deonnababan1927@gmail.com)
 
 </div>
 
 ---
 
 ### 📖 About Me
-- 🔭 I’m currently working on **Personal Projects**
-- 🌱 I’m currently learning **Advanced Web Development & Data Analysis**
-- 💬 Ask me about **Python, JavaScript, or SQL**
-- 📫 How to reach me: [Your LinkedIn/Email Link Here]
+- 🎓 **Education**: Information Systems student at Universitas Brawijaya, Alumnus of SMA Unggul Del '23.
+- 🏫 **Experience**: Served as a **Lab Assistant** for Database Administration and SQL Programming at the Faculty of Computer Science, UB.
+- 🚀 **Current Focus**: Enrolled in a **Data Analyst Bootcamp at Dbimbing** and building a portfolio for AI Engineer roles.
+- 🧠 **Interests**: Machine Learning, Natural Language Processing (specifically **BERT**), and Data Visualization.
 
 ### 🛠 Tech Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,git,laravel,vue,bootstrap" />
-</div>
+- **Languages**: Python, SQL, JavaScript.
+- **Data & AI**: Machine Learning models, NLP (BERT), Database Administration.
+- **Frameworks & Tools**: Laravel, Vue.js (Web Dev), MySQL.
+
+### 📂 Featured Projects
+- **Predictive Lead Scoring Portal**: A capstone project for banking sales optimization.
+- **Data Dashboards**: Currently developing Revenue, Customer, and Product dashboards.
+- **CalMate**: Daily nutrition tracking application.
+- **QueueLess**: Digital queueing system for campus services.
 
 ---
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dionmarshalll&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Dion's GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=dionmarshalll&show_icons=true&theme=tokyonight&hide_border=true" alt="Dion's Stats" />
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionmarshalll&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionmarshalll&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dion" height="30" width="40" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Dion" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <em>"Turning data into insights and models into solutions."</em>
+</div>
